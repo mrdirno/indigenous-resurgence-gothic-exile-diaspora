@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous-resurgence-gothic-exile-diaspora",
+  "title": "The Drowned Woman's Ribs",
+  "tagline": "In a city built on stolen land and forgotten bones, two cousins must use the only weapons they have left—memory and myth—to fight the ghosts of the present.",
+  "target_words": 70000,
+  "actual_words": 69126,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Haunted Cartography",
+    "Urban Indigenous Resistance",
+    "Inherited Madness as Truth",
+    "The Gothic as Historical Memory"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Archive and the River",
+      "words": 2875
+    },
+    {
+      "ch": 2,
+      "title": "The Plain of Ash",
+      "words": 2880
+    },
+    {
+      "ch": 3,
+      "title": "The Fluorescent Glare",
+      "words": 2880
+    },
+    {
+      "ch": 4,
+      "title": "The Mark on the Stone",
+      "words": 2880
+    },
+    {
+      "ch": 5,
+      "title": "The Surveyor's Ink",
+      "words": 2880
+    },
+    {
+      "ch": 6,
+      "title": "The Quiet Shoes",
+      "words": 2880
+    },
+    {
+      "ch": 7,
+      "title": "The Wire Factory's Breath",
+      "words": 2880
+    },
+    {
+      "ch": 8,
+      "title": "Grandmother's Blanket",
+      "words": 2880
+    },
+    {
+      "ch": 9,
+      "title": "The Bone Awl's Memory",
+      "words": 2880
+    },
+    {
+      "ch": 10,
+      "title": "Songs in the Pipes",
+      "words": 2880
+    },
+    {
+      "ch": 11,
+      "title": "The Price of a Ravine",
+      "words": 2880
+    },
+    {
+      "ch": 12,
+      "title": "The Shiny Shovel",
+      "words": 2880
+    },
+    {
+      "ch": 13,
+      "title": "The Cinder Taste",
+      "words": 2880
+    },
+    {
+      "ch": 14,
+      "title": "The Patrol Car's Eye",
+      "words": 2880
+    },
+    {
+      "ch": 15,
+      "title": "The Stolen Names",
+      "words": 2880
+    },
+    {
+      "ch": 16,
+      "title": "The Lightning-Struck Oak",
+      "words": 2880
+    },
+    {
+      "ch": 17,
+      "title": "The Map-Makers' Feast",
+      "words": 2880
+    },
+    {
+      "ch": 18,
+      "title": "The Offering",
+      "words": 2880
+    },
+    {
+      "ch": 19,
+      "title": "The Twisted Country",
+      "words": 2880
+    },
+    {
+      "ch": 20,
+      "title": "The Broken Radio",
+      "words": 2880
+    },
+    {
+      "ch": 21,
+      "title": "The Ghosts Yet",
+      "words": 2880
+    },
+    {
+      "ch": 22,
+      "title": "The Resonance in Alleys",
+      "words": 2880
+    },
+    {
+      "ch": 23,
+      "title": "The Crown of Thorns",
+      "words": 2880
+    },
+    {
+      "ch": 24,
+      "title": "The First Mark",
+      "words": 2881
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a modern urban space (a subway station, a parking garage, a server farm) 'speaks' a forgotten Indigenous name or story through a glitch or anomaly.",
+      "Create a character profile for 'The Drowned Woman'—not as a ghost, but as a geological and historical record of the land itself.",
+      "Draft a 'counter-map' of a familiar city neighborhood, labeling it not with streets but with events, memories, and ecological features erased by development.",
+      "Write a dialogue between a pragmatic city planner and a character who perceives the spiritual history of the land they are surveying."
+    ],
+    "technical": [
+      "Build an interactive web map that layers historical Indigenous place names and stories over a modern street grid, allowing users to toggle between 'official' and 'memory' cartographies.",
+      "Create a text-based game where the player uses 'listening' and 'remembering' as primary mechanics to solve puzzles and navigate a hostile, haunted cityscape."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Eden Robinson",
+      "Stephen Graham Jones",
+      "Marlon James",
+      "Ann Radcliffe"
+    ]
+  },
+  "cover_prompt": "Two young indigenous cousins, their faces etched with ancestral grief and fierce resolve, stand back-to-back in a spectral, moonlit confrontation, one tracing the glowing, ghostly lines of a city map onto a crumbling brick wall while the other sings a low, resonant song that causes skeletal ribs to rise like a macabre fence from the wet pavement, [Detailed Scene & Context: set in a rain-slicked, forgotten alley of a decaying metropolis where the architecture is a palimpsest of colonial imposition and indigenous resistance, with graffiti that shifts between corporate logos and ancient petroglyphs, and where puddles reflect not the sky but the faces of drowned ancestors], [Artistic Style & Medium: in the atmospheric style of a haunting indigenous resurgence gothic, blending the eerie, symbolic realism of Kathleen Lolley with the textured, mythic depth of Rovina Cai and the urban, melancholic palette of James Jean], [Composition & Camera: book cover framing, a centered and intimate composition viewed from a low, dramatic angle that emphasizes the rising ribs and the towering, oppressive cityscape], [Lighting & Color Palette: illuminated by the cold, ethereal glow of a drowned moon and the warm, defiant ember-light of memory, using a palette of drowned indigos, bone white, arterial crimson, and tarnished gold], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
