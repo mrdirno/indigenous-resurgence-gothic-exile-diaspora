@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The city’s new archive was built from the same quarried stone as the old mission school. My grandmother’s name was etched on a donor plaque by the door, a fact that made my own hands feel like stolen artifacts. I pressed my palm to the cold granite, and the vibration I felt wasn’t from the subway below. It was the building, humming a hymn it had learned from our bones.
@@ -123,6 +125,8 @@ The river was a black tongue. And we were the taste it was trying to spit out.
 
 ---
 
+# Chapter 2
+
 ## CHAPTER 2
 
 The dream was always the same: a vast, dark plain under a sky choked with stars. No city lights, no hum. Just wind and the smell of cold earth. In the center of the plain, a fire, and around it, figures whose faces were shadows. They were speaking, but the words were lost, carried off on the wind before they could reach me. I was walking toward them, but the distance never closed. The ground beneath my feet was soft, giving way, and I realized I was walking on ash. Then I’d feel it—a hand on my shoulder, cold as river stone. I’d turn, and there’d be no one, just the immense, star-strangled sky pressing down. I’d wake with the taste of cinders on my tongue.
@@ -226,6 +230,8 @@ But the taste of cinders was still in my mouth. And as we slipped back through t
 The men in quiet shoes were coming on Monday. And now, something else was waiting for them.
 
 ---
+
+# Chapter 3
 
 ## CHAPTER 3
 
